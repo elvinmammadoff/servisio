@@ -1,0 +1,177 @@
+/* 
+    Template Name: Servisio
+    Template URI: https://servisio.netlify.app/
+    Author: Alissio
+    File Description: Main Css file of the template
+	  Version: 1.0.0
+*/
+
+
+/*-----------------------------------------------------------------------------------
+
+    CSS INDEX
+    ===================
+
+    1. - GENERAL
+
+    2. - TAB
+    
+    3. - ANIMATION
+
+    4. - RESPONSIVE
+
+-----------------------------------------------------------------------------------*/
+
+
+/* 1. - GENERAL
+-------------------------------------------------- */
+
+body {
+  font-family: "Nunito Sans", sans-serif;
+  font-weight: 400;
+  background-color: #fff;
+  padding: 2rem 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 600;
+}
+
+a {
+  text-decoration: none;
+  outline: none;
+}
+
+.min-height-screen {
+  min-height: 100vh;
+}
+
+.title {
+  margin-bottom: 0;
+}
+
+.x-line {
+  width: 100px;
+  height: 3px;
+  margin: .5rem 0 1rem;
+  background-color: #befaa2;
+  display: inline-block;
+
+}
+
+
+/* 2. - TAB
+-------------------------------------------------- */
+
+.services-tab .nav-pills,
+.services-tab .tab-content {
+  margin-top: 2rem;
+}
+
+.services-tab .nav {
+  column-gap: 30px;
+  row-gap: 30px;
+}
+
+.services-tab .nav-pills .nav-link {
+  width: calc(50% - 30px);
+  background-color: #f7f7f7;
+  color: #333;
+  display: flex;
+  align-items: center;
+  text-align: left;
+  column-gap: .5rem;
+  border-radius: 1rem;
+  box-shadow: 0 1px 1px 0 rgba(66, 66, 66, 0.08), 0 1px 3px 1px rgba(66, 66, 66, 0.16);
+}
+
+.services-tab .nav-pills .nav-link.active {
+  background-color: #befaa2;
+}
+
+.services-tab .nav-link .mdi {
+  font-size: 1.8rem;
+  color: #90d66f;
+}
+
+.services-tab .tab-pane {
+  position: relative;
+  border-radius: 1rem;
+  overflow: hidden;
+  box-shadow: 0 1px 1px 0 rgba(66, 66, 66, 0.08), 0 1px 3px 1px rgba(66, 66, 66, 0.16);
+  background-color: transparent;
+}
+
+.services-tab img {
+  border-radius: 1rem 1rem 0 0 ;
+}
+
+.service-info {
+  display: flex;
+}
+
+.service-info p {
+  padding: 1rem;
+  margin-bottom: 0;
+  background-color: #fff;
+}
+
+.service-info a {
+  padding: 1rem;
+  background-color: #befaa2;
+  color: #333;
+  display: flex;
+  align-items: center;
+  border-radius: 0 0 1rem 0;
+  font-weight: 600;
+  position: relative;
+  overflow: hidden;
+}
+
+.service-info a .mdi {
+  position: absolute;
+  left: 0;
+  font-size: 5rem;
+  color: #53853b;
+  animation: loop 2s linear infinite;
+}
+
+.service-info a span {
+  z-index: 1;
+}
+
+
+/* 3. - ANIMATION
+-------------------------------------------------- */
+
+@keyframes loop {
+  from {
+    transform: translateX(-30%);
+    opacity: .1;
+  }
+  to {
+    transform: translateX(100%);
+    opacity: .3;
+  }
+}
+
+
+/* 4. - RESPONSIVE
+-------------------------------------------------- */
+
+@media (max-width: 991.98px) { 
+  .w-50 {
+    width: 75% !important;
+  }
+}
+
+@media (max-width: 767.98px) { 
+  .w-50 {
+    width: 100% !important;
+  }
+}
