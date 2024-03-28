@@ -1,0 +1,100 @@
+<div class="user-html user-html__with-lazy-load"><a href="https://servisio.netlify.app/documentation/" rel="nofollow" target="_blank"><img src="https://servisio.netlify.app/src/assets/img/doc.png" alt="Servisio - Online Documentation"></a>
+<h3 id="item-description__responsive-service-section-template">Servisio – Responsive Service Section Template</h3>
+<p><strong>Servisio</strong> Responsive Service Section is an all-in-one package that includes unique style and functionality. It provides you customizable service section to help create dynamic and engaging web pages. <br><br>With <strong>Servisio</strong> you can quickly and easily add service section to your website. It is easy to use, fully responsive and works seamlessly across all devices.<br><br>Customize everything from colors to fonts to create the perfect service section for your website.<br><br>Get <strong>Servisio</strong> Responsive Service Section and take your business, agency, service sale website to the next level.</p>
+
+<img src="https://servisio.netlify.app/src/assets/img/rate.png" alt="rate-us">
+
+<h3 id="item-description__why-choose-servisio-service-section">Why choose Servisio Service Section?</h3>
+<ul>
+<li>
+<strong>Completely Responsive Design</strong>
+<p>Optimized viewing on desktop, tablet and mobile devices.</p>
+</li>
+<li>
+<strong>Easy Customization</strong>
+<p>Customize each slide to meet your unique requirements and preferences.</p>
+</li>
+<li>
+<strong>Beautiful Appearance on Any Device</strong>
+<p>Great user experience on any screen size or resolution.</p>
+</li><li>
+<strong>Advanced Animation Effects</strong>
+<p>Eye-catching transitions between slides.</p>
+</li><li>
+<strong>Built with Bootstrap Framework</strong>
+<p>Ensures stability, compatibility and ease of use.</p>
+</li><li>
+<strong>Cross-Browser Compatibility</strong>
+<p>Seamless functionality on multiple browsers.</p>
+</li><li>
+<strong>Fast Loading Speed</strong>
+<p>Optimized user experience with fast loading times.</p>
+</li><li>
+<strong>User-Friendly Interface</strong>
+<p>Easy to use and navigate.</p>
+</li>
+</ul>
+<h3 id="item-description__other-features">Other Features</h3>
+<ul>
+<li>Based on Bootstrap v5.1</li>
+<li>W3C HTML valid code</li>
+<li>Grid 1770 px</li>
+<li>Better Support (response within 24 hours)</li>
+<li>Free Regular Updates</li>
+<li>Well, Extensive Documentation</li>
+</ul>
+<h3 id="item-description__files-included">Files Included</h3>
+<ul>
+<li>HTML File</li>
+<li>Supporting CSS Files</li>
+<li>Supporting JS Files</li>
+</li>
+<li>Documentation in HTML</li>
+</ul>
+<h3 id="item-description__3rd-party-libraries-used">3rd Party Libraries License</h3>
+<ul>
+<li><a href="https://getbootstrap.com/docs/5.1/getting-started/introduction/" rel="nofollow" target="_blank">Bootstrap 5.1.3</a> framework is released under the MIT license and is copyright 2023. It permits you to freely download and use Bootstrap, in whole or in part, for personal, private, company internal, or commercial purposes.
+</li>
+</ul>
+<h3 id="item-description__fonts-used">Fonts used:</h3>
+<ul>
+<li><a href="https://fonts.google.com/specimen/Nunito+Sans" rel="nofollow" target="_blank">Nunito Sans</a></li>
+</ul>
+<h3 id="item-description__icons">Icons:</h3>
+<ul>
+<li><a href="https://pictogrammers.com/docs/library/mdi/releases/changelog/#version-7.4.47" rel="nofollow" target="_blank">Material Design Icons 7.4</a>
+</li>
+</ul>
+<h3 id="item-description__images-license">Images License:</h3><p>Thank you so much to the artists and authors who gave their permission to use their amazing works! <strong>THANK YOU!</strong></p>
+<ul>
+<li>All images used are taken from <a href="https://pixabay.com/" target="_blank">Pixabay</a>. Pixabay is a vibrant community of authors, artists and creators sharing royalty-free images, video, audio and other media.
+</li>
+</ul>
+<h3 id="item-description__documentation">Documentation</h3>
+<a href="https://servisio.netlify.app/documentation/" rel="nofollow" target="_blank">Check the docs here</a>
+<h3 id="item-description__customization-services">Important Note:</h3>
+<ul>
+<li>All images are just used for Preview Purpose Only. They are not part of the HTML templates and are not included in the final purchase files.</li>
+<li>Images and videos shown on our demo site are not part of the template download package due to licensing limitations and hence we are providing placeholder images with recommended image size mentioned in it.</li>
+<li>Any type of code or CSS customization and feature addition/change is not part of item support scope as per Envato item <a href="https://themeforest.net/page/item_support_policy?_ga=2.233764957.275401607.1701770067-503905489.1698934107" target="_blank">support policy</a>.</li>
+<li>Included a documentation file for full instruction.</li>
+</ul>
+<h3 id="item-description__sources-and-credits">Sources and Credits</h3>
+<p><strong>Please note: the images that can be seen in the preview will not be included in the download package. These are for preview purposes only.</strong> Full credits list you can see on this page <a href="https://servisio.netlify.app/documentation/index.html#credits" target="_blank">link</a></p>
+<h3 id="item-description__thank-you">Thank you:</h3><p>Thank you so much for using this template. Your comments and ratings would be much appreciated. Please don’t forget RATE for us.</p><p>If you purchase this template, you will get support. We will update this template time by time and we want to hear your wishes for the future updates or for complete new templates.
+</p><p>We are grateful to you.
+</p><p><strong>– Alissio –</strong></p>
+
+<h3 id="item-description__change-log">Change Log:</h3>
+<p>V. 1.0.0 – 28.03.2024</p>
+<pre>- Initial release</pre>
+<p>If you love our product, Don’t forget to rate it 5 stars</p>
+<p>
+<img src="https://servisio.netlify.app/src/assets/img/star.png" alt="star">
+<img src="https://servisio.netlify.app/src/assets/img/star.png" alt="star">
+<img src="https://servisio.netlify.app/src/assets/img/star.png" alt="star">
+<img src="https://servisio.netlify.app/src/assets/img/star.png" alt="star">
+<img src="https://servisio.netlify.app/src/assets/img/star.png" alt="star"> 
+and let us know your feedback for a better update. Thank you
+<img src="https://servisio.netlify.app/src/assets/img/smile.png" alt="happy">
+</div>
